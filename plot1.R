@@ -1,6 +1,6 @@
 # Exploratory Data Analysis Course
 # Assignment 1
-# 2014-05-10
+# 2014-06-02
 
 
 # Read-in the data file
